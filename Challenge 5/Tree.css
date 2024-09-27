@@ -1,0 +1,12 @@
+.tree
+{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: green;
+    position:absolute;
+    position: anchor 25cm;
+}
+.sky{
+    background-color: aquamarine;
+}

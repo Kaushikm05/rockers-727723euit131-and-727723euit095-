@@ -1,0 +1,26 @@
+.red{
+    background-color: red;
+}
+.hatop{
+    background-color: black;
+    width: 50px;
+    height: 100px;
+}
+.oval{
+    height: 200px;
+    width: 100px;
+    background-color: white;
+    border-radius: 100px/50px;
+}
+.rectangle{
+    width: 15px;
+    height: 10px;
+}
+.semicircle{
+    
+        width: 200px;
+        height: 100px;
+        border-radius: 100px 100px 0 0;
+        background-color: white;
+      
+}
